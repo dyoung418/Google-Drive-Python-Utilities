@@ -1,0 +1,19 @@
+
+**** 2016-10-13 19-07-59 .txt starting download of folder Bergün Juli 2005
+2016-10-13 19-08-00 .txt Image(083).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yeWcyMTJzLTdaQ0U
+2016-10-13 19-08-02 .txt Image(083).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yeWcyMTJzLTdaQ0U
+2016-10-13 19-08-02 .txt Image(084).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yM19LbDl4WmxSSWs
+2016-10-13 19-08-05 .txt Image(084).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yM19LbDl4WmxSSWs
+2016-10-13 19-08-05 .txt Image(081).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yY1lDSUhjaEltVGM
+2016-10-13 19-08-07 .txt Image(081).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yY1lDSUhjaEltVGM
+2016-10-13 19-08-08 .txt .picasa.ini                                        download failed (1. attempt)  0BxhD2G0gO43ySm85Q090cHhZems
+2016-10-13 19-08-10 .txt .picasa.ini                                        download failed (2. attempt) 0BxhD2G0gO43ySm85Q090cHhZems
+2016-10-13 19-08-10 .txt Image(080).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yRGNweWp5WXU3eVk
+2016-10-13 19-08-12 .txt Image(080).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yRGNweWp5WXU3eVk
+2016-10-13 19-08-13 .txt Image(082).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yaEhUR1MxcW1rQW8
+2016-10-13 19-08-15 .txt Image(082).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yaEhUR1MxcW1rQW8
+2016-10-13 19-08-15 .txt Image(085).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yX0tXaXB3cWhiMFE
+2016-10-13 19-08-18 .txt Image(085).jpg                                     download failed (2. attempt) 0BxhD2G0gO43yX0tXaXB3cWhiMFE
+2016-10-13 19-08-18 .txt Image(086).jpg                                     download failed (1. attempt)  0BxhD2G0gO43ycE9oXzRnRnRxbkU
+2016-10-13 19-08-20 .txt Image(086).jpg                                     download failed (2. attempt) 0BxhD2G0gO43ycE9oXzRnRnRxbkU
+2016-10-13 19-08-21 .txt Image(087).jpg                                     download failed (1. attempt)  0BxhD2G0gO43yWE53YjdQZWRNRm8
